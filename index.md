@@ -4,7 +4,8 @@ If you find any material on the V language, suggest adding it here
 
 ## Materials directly related to V
 
-* [Official site of the V programming language](https://vlang.io/)
+[Official site of the V programming language](https://vlang.io/)
+[An introduction to V](https://simonknott.de/articles/VLang.html)
 
 ## Materials indirectly related to V.
 
