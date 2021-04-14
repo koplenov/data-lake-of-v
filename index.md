@@ -6,6 +6,7 @@ If you find any material on the V language, suggest adding it here
 
 * [Official site of the V programming language](https://vlang.io/)
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
+* [The V programming language](The V programming language)
 
 ## Materials indirectly related to V.
 
