@@ -6,7 +6,8 @@ If you find any material on the V language, suggest adding it here
 
 * [Official site of the V programming language](https://vlang.io/)
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
-* [The V programming language](The V programming language)
+* [The V programming language](https://dev.to/koddr/good-to-know-the-v-programming-language-k5b)
+* [Vlang vs. Rust: Comparing build languages](https://blog.logrocket.com/v-lang-vs-rust-comparing-build-languages/)
 
 ## Materials indirectly related to V.
 
