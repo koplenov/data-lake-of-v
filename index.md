@@ -5,6 +5,9 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 ## Materials directly related to V
 
 * [Official site of the V programming language](https://vlang.io/)
+* [Official V Documentation](https://github.com/vlang/v/blob/master/doc/docs.md)
+
+* [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
 * [The V programming language](https://dev.to/koddr/good-to-know-the-v-programming-language-k5b)
 * [Vlang vs. Rust: Comparing build languages](https://blog.logrocket.com/v-lang-vs-rust-comparing-build-languages/)
