@@ -1,4 +1,4 @@
 title: Data Lake
-description: Let's find and collect all the materials on the [V programming language](https://vlang.io/)
-show_downloads: true
+description: Let's find and collect all the materials on the V programming language
+show_downloads: false
 theme: jekyll-theme-cayman
