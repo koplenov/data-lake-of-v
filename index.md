@@ -1,5 +1,6 @@
-### This page contains a collection of all materials directly or indirectly related to the [V programming language](https://vlang.io/)
-### If you find any material on the V language, suggest adding it here
+This page contains a collection of all materials directly or indirectly related to the [V programming language](https://vlang.io/)
+
+If you find any material on the V language, suggest adding it here
 
 ## Materials directly related to V
 
