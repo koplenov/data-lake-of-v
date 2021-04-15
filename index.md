@@ -20,6 +20,10 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 * [Vlang vs. Rust: Comparing build languages](https://blog.logrocket.com/v-lang-vs-rust-comparing-build-languages/)
 * [VLang for Automation Scripting](https://levelup.gitconnected.com/vlang-for-automation-scripting-5d977ee97de)
 
+* [El lenguaje de programación V](https://emanuelpeg.blogspot.com/2020/01/el-lenguaje-de-programacion-v.html)
+* [El lenguaje de programación V, Parte 2](https://emanuelpeg.blogspot.com/2020/01/el-lenguaje-de-programacion-v-parte-2.html)
+* [El lenguaje de programación V, Parte 3](https://emanuelpeg.blogspot.com/2020/01/el-lenguaje-de-programacion-v-parte-3.html)
+
 ### Tutorials
 * [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
 
