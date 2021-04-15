@@ -27,3 +27,4 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 
 * [One Letter Programming Languages](https://beza1e1.tuxen.de/one_letter_proglangs.html)
 * [Pony Is Not A Well-designed Programming Language](https://tryingtobeawesome.com/pony/)
+* [V Programming Language](http://copyfree.org/resources/works#V%20Programming%20Language)
