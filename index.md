@@ -24,6 +24,8 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 * [El lenguaje de programación V, Parte 2](https://emanuelpeg.blogspot.com/2020/01/el-lenguaje-de-programacion-v-parte-2.html)
 * [El lenguaje de programación V, Parte 3](https://emanuelpeg.blogspot.com/2020/01/el-lenguaje-de-programacion-v-parte-3.html)
 
+* [V – значит... язык программирования!](https://proglib.io/p/v-znachit-yazyk-programmirovaniya-2020-02-23)
+
 ### Tutorials
 * [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
 * (YouTube)[V Programming Tutorials](https://www.youtube.com/playlist?list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
