@@ -26,8 +26,11 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 
 * [V – значит... язык программирования!](https://proglib.io/p/v-znachit-yazyk-programmirovaniya-2020-02-23)
 
+
+* [Christine Dodril](https://christine.website/)[l's series of articles-criticism on language V](https://christine.website/blog/series/v)
 * [V Update - June 2020 - Christine Dodrill](https://christine.website/blog/vlang-update-2020-06-17)
 * [V is for Vvork in Progress - Christine Dodrill](https://christine.website/blog/v-vvork-in-progress-2020-01-03)
+* [V is for Vaporware - Christine Dodrill](https://christine.website/blog/v-vaporware-2019-06-23)
 
 ### Tutorials
 * [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
