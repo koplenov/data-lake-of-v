@@ -26,7 +26,7 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 
 ### Tutorials
 * [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
-* (YouTube)[Working with strings in V Programming language ](https://www.youtube.com/watch?v=vcK1gLoa_bg)
+* (YouTube)[V Programming Tutorials](https://www.youtube.com/playlist?list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
 ## Materials indirectly related to V.
 
