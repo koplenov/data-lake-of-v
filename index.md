@@ -6,6 +6,7 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 
 * [Official site of the V programming language](https://vlang.io/)
 * [Official V Documentation](https://github.com/vlang/v/blob/master/doc/docs.md)
+* [Standard library documentation](http://modules.vlang.io/)
 * [Awesome V](https://github.com/vlang/awesome-v) (The best content is moved here)
 
 * [The Book of V](https://the-book-of-v.readthedocs.io/en/latest/)
