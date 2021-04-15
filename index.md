@@ -16,7 +16,9 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 * [The Book of V](https://the-book-of-v.readthedocs.io/en/latest/)
 * [An introduction to V](https://simonknott.de/articles/VLang.html)
 * [The V programming language](https://dev.to/koddr/good-to-know-the-v-programming-language-k5b)
+* [Bonjour V!](https://dev.to/pratikgchaudhari/bonjour-v-9e6)
 * [Vlang vs. Rust: Comparing build languages](https://blog.logrocket.com/v-lang-vs-rust-comparing-build-languages/)
+* [VLang for Automation Scripting](https://levelup.gitconnected.com/vlang-for-automation-scripting-5d977ee97de)
 
 ### Tutorials
 * [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
@@ -24,3 +26,4 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 ## Materials indirectly related to V.
 
 * [One Letter Programming Languages](https://beza1e1.tuxen.de/one_letter_proglangs.html)
+* [Pony Is Not A Well-designed Programming Language](https://tryingtobeawesome.com/pony/)
