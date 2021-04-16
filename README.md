@@ -1,4 +1,4 @@
-# data-lake-of-v
+# [data-lake-of-v](https://koplenov.github.io/data-lake-of-v)
 
 This page contains a collection of **all** materials directly or indirectly related to the [V programming language](https://vlang.io/)
 
