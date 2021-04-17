@@ -25,6 +25,7 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 * [El lenguaje de programación V, Parte 3](https://emanuelpeg.blogspot.com/2020/01/el-lenguaje-de-programacion-v-parte-3.html)
 
 * [V – значит... язык программирования!](https://proglib.io/p/v-znachit-yazyk-programmirovaniya-2020-02-23)
+* [В чём основной минус языка V?](https://qna.habr.com/q/622616)
 
 * [What is Vlang? An Introduction](https://morioh.com/p/4d3c4b955065)
 
