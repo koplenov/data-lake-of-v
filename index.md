@@ -26,6 +26,7 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 
 * [V – значит... язык программирования!](https://proglib.io/p/v-znachit-yazyk-programmirovaniya-2020-02-23)
 
+* [What is Vlang? An Introduction](https://morioh.com/p/4d3c4b955065)
 
 * [Christine Dodril](https://christine.website/)[l's series of articles-criticism on language V](https://christine.website/blog/series/v)
 * [V Update - June 2020 - Christine Dodrill](https://christine.website/blog/vlang-update-2020-06-17)
