@@ -26,6 +26,7 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 
 * [V – значит... язык программирования!](https://proglib.io/p/v-znachit-yazyk-programmirovaniya-2020-02-23)
 * [В чём основной минус языка V?](https://qna.habr.com/q/622616)
+* [Язык программирования V 0.2: Механизм освобождения памяти во время компиляции](https://habr.com/ru/sandbox/148908/)
 
 * [What is Vlang? An Introduction](https://morioh.com/p/4d3c4b955065)
 
