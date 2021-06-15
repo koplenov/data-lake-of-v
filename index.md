@@ -38,6 +38,8 @@ If you find **any** material on the V language, suggest adding it [here](https:/
 ### Tutorials
 * [Building a 150 KB web blog in V with 0 dependencies](https://github.com/vlang/v/tree/master/tutorials/building_a_simple_web_blog_with_vweb)
 * (YouTube)[V Programming Tutorials](https://www.youtube.com/playlist?list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+* (YouTube)[V programming](https://www.youtube.com/playlist?list=PLvLz9K34Y26baplmBi-3oJNA7gzb5Nqui)
+* (YouTube)[Vtutor](https://www.youtube.com/playlist?list=PLqJ-vFLoJOaGKqcJHviv9iQqDgRgduL5e)
 
 ## Materials indirectly related to V.
 
